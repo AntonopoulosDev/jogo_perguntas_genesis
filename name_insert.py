@@ -29,7 +29,7 @@ def name_window(root):
 
     name = Toplevel(root)
     name.title("Insira seu nome!")
-    name.geometry("300x130")
+    name.geometry("300x160")
     name.resizable(False, False)
 
     texto = ttk.Label(name, text="Insira seu nome:")
@@ -41,6 +41,7 @@ def name_window(root):
     botao = ttk.Button(name, text="Inserir nome", command=lambda:pegar_nome(name, entrada))
     botao.pack(pady=10)
 
+    button = ttk.Button(name, text="Fechar", command=name.destroy).pack(pady=10)
 
         
 
