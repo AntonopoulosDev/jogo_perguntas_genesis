@@ -67,6 +67,7 @@ def choose_dificult(root):
     ttk.Button(frm, text="Médio", command="").pack(pady=10)
     ttk.Button(frm, text="Difícil", command="").pack(pady=10)
     ttk.Button(frm, text="Muito Difícil", command="").pack(pady=10)
+    ttk.Button(frm, text="Impossivel", command="").pack(pady=10)
     ttk.Button(frm, text="Voltar", command=dificult.destroy).pack(pady=10)
 
     dificult.mainloop()
