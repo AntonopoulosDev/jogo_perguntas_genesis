@@ -17,13 +17,13 @@ def pegar_nome(name , entrada):
     if any (jogador["nome"] == nome for jogador in jogadores):
         messagebox.showwarning("Atenção!","Já existe um jogaodr com este nome!")
     else:
-        novo_jogador = {"nome": nome, "pontos": 0}
+        novo_jogador = {"nome": nome, "pontos":0, "ativo": True, "perguntas": 0}
         jogadores.append(novo_jogador)
 
         with open("jogadores.json", "w") as arquivo:
             json.dump(jogadores, arquivo)
         print(f"Nome salvo: {nome}")
-        name.destroy()
+
 
 def name_window(root):
 
