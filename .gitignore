@@ -1,0 +1,13 @@
+# Ignorar diretórios __pycache__
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py.class
+
+# Ignorar arquivos específicos do Python
+*.egg-info/
+.env
+.venv/
+venv/
+ENV/
