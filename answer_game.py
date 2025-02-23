@@ -11,7 +11,6 @@ root = Tk()
 root.title("Hello World!")
 root.geometry("700x500")
 
-
 frm = ttk.Frame(root, padding=10)
 frm.grid(sticky="NSEW")  
 
@@ -22,7 +21,6 @@ frm.rowconfigure(0, weight=1)
 frm.rowconfigure(1, weight=1)   
 frm.rowconfigure(2, weight=1)    
 frm.rowconfigure(3, weight=1)    
-
 
 frm = ttk.Frame(root, padding=10)
 frm.grid()

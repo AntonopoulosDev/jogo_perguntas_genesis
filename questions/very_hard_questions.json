@@ -1,0 +1,249 @@
+[
+    {
+        "enunciado": "Qual era o dom de José, filho de Jacó?",
+        "alternativas": [
+            "Curar enfermos",
+            "Falar em línguas",
+            "Profetizar",
+            "Interpretação de sonhos",
+            "Fazer milagres"
+        ],
+        "correta": "Interpretação de sonhos",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu Noé?",
+        "alternativas": [
+            "500",
+            "600",
+            "700",
+            "800",
+            "950"
+        ],
+        "correta": "950",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos dias e noites choveu durante o dilúvio?",
+        "alternativas": [
+            "20",
+            "30",
+            "40",
+            "50",
+            "60"
+        ],
+        "correta": "40",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos tinha Abraão quando Isaque nasceu?",
+        "alternativas": [
+            "80",
+            "90",
+            "100",
+            "110",
+            "120"
+        ],
+        "correta": "100",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu Abraão?",
+        "alternativas": [
+            "150",
+            "175",
+            "180",
+            "200",
+            "250"
+        ],
+        "correta": "175",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu Isaque?",
+        "alternativas": [
+            "120",
+            "130",
+            "140",
+            "150",
+            "180"
+        ],
+        "correta": "180",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu Jacó?",
+        "alternativas": [
+            "120",
+            "130",
+            "140",
+            "147",
+            "150"
+        ],
+        "correta": "147",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos filhos teve Jacó?",
+        "alternativas": [
+            "10",
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "correta": "12",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu José?",
+        "alternativas": [
+            "100",
+            "110",
+            "120",
+            "130",
+            "140"
+        ],
+        "correta": "110",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu Matusalém?",
+        "alternativas": [
+            "800",
+            "900",
+            "950",
+            "969",
+            "1000"
+        ],
+        "correta": "969",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu Adão?",
+        "alternativas": [
+            "800",
+            "900",
+            "930",
+            "950",
+            "1000"
+        ],
+        "correta": "930",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu Enoque antes de ser arrebatado?",
+        "alternativas": [
+            "300",
+            "365",
+            "400",
+            "500",
+            "600"
+        ],
+        "correta": "365",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu Sete?",
+        "alternativas": [
+            "800",
+            "900",
+            "912",
+            "950",
+            "1000"
+        ],
+        "correta": "912",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu Noé antes do dilúvio?",
+        "alternativas": [
+            "500",
+            "600",
+            "700",
+            "800",
+            "900"
+        ],
+        "correta": "600",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu Abraão antes de ter Isaque?",
+        "alternativas": [
+            "80",
+            "90",
+            "100",
+            "110",
+            "120"
+        ],
+        "correta": "100",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu Isaque antes de ter Jacó?",
+        "alternativas": [
+            "60",
+            "70",
+            "80",
+            "90",
+            "100"
+        ],
+        "correta": "60",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu Jacó antes de ir para o Egito?",
+        "alternativas": [
+            "120",
+            "130",
+            "140",
+            "147",
+            "150"
+        ],
+        "correta": "130",
+        "pontos": 40,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos anos viveu José no Egito?",
+        "alternativas": [
+            "80",
+            "90",
+            "100",
+            "110",
+            "120"
+        ],
+        "correta": "110",
+        "pontos": 40,
+        "repetida": 1
+    },
+    {
+        "enunciado": "Quantos anos viveu Ló?",
+        "alternativas": [
+            "100",
+            "120",
+            "130",
+            "140",
+            "150"
+        ],
+        "correta": "140",
+        "pontos": 40,
+        "repetida": 0
+    }
+]

@@ -1,0 +1,249 @@
+[
+    {
+        "enunciado": "Quem criou o mundo?",
+        "alternativas": [
+            "Deus",
+            "Adão",
+            "Eva",
+            "Caim",
+            "Abel"
+        ],
+        "correta": "Deus",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o primeiro homem criado por Deus?",
+        "alternativas": [
+            "Adão",
+            "Eva",
+            "Caim",
+            "Abel",
+            "Noé"
+        ],
+        "correta": "Adão",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi a primeira mulher criada por Deus?",
+        "alternativas": [
+            "Eva",
+            "Adão",
+            "Sara",
+            "Rebeca",
+            "Raquel"
+        ],
+        "correta": "Eva",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o primeiro filho de Adão e Eva?",
+        "alternativas": [
+            "Caim",
+            "Abel",
+            "Sete",
+            "Noé",
+            "Enoque"
+        ],
+        "correta": "Caim",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o segundo filho de Adão e Eva?",
+        "alternativas": [
+            "Abel",
+            "Caim",
+            "Sete",
+            "Noé",
+            "Enoque"
+        ],
+        "correta": "Abel",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quem foi o pai de Noé?",
+        "alternativas": [
+            "Lameque",
+            "Enoque",
+            "Matusalém",
+            "Caim",
+            "Abel"
+        ],
+        "correta": "Lameque",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quem foi o homem que viveu mais tempo na Bíblia?",
+        "alternativas": [
+            "Matusalém",
+            "Adão",
+            "Noé",
+            "Enoque",
+            "Abraão"
+        ],
+        "correta": "Matusalém",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quem foi arrebatado por Deus e não viu a morte?",
+        "alternativas": [
+            "Enoque",
+            "Elias",
+            "Noé",
+            "Adão",
+            "Abraão"
+        ],
+        "correta": "Enoque",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome da arca construída por Noé?",
+        "alternativas": [
+            "Arca de Noé",
+            "Arca da Aliança",
+            "Arca de Deus",
+            "Arca do Dilúvio",
+            "Arca de Matusalém"
+        ],
+        "correta": "Arca de Noé",
+        "pontos": 15,
+        "repetida": 1
+    },
+    {
+        "enunciado": "Quem foi o pai de Abraão?",
+        "alternativas": [
+            "Terá",
+            "Naor",
+            "Haran",
+            "Serugue",
+            "Ló"
+        ],
+        "correta": "Terá",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome da esposa de Abraão?",
+        "alternativas": [
+            "Sara",
+            "Rebeca",
+            "Raquel",
+            "Leia",
+            "Débora"
+        ],
+        "correta": "Sara",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do sobrinho de Abraão?",
+        "alternativas": [
+            "Ló",
+            "Isaque",
+            "Jacó",
+            "Esaú",
+            "José"
+        ],
+        "correta": "Ló",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do filho de Abraão e Sara?",
+        "alternativas": [
+            "Isaque",
+            "Ismael",
+            "Jacó",
+            "Esaú",
+            "José"
+        ],
+        "correta": "Isaque",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do filho de Abraão e Hagar?",
+        "alternativas": [
+            "Ismael",
+            "Isaque",
+            "Jacó",
+            "Esaú",
+            "José"
+        ],
+        "correta": "Ismael",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do filho de Isaque e Rebeca?",
+        "alternativas": [
+            "Jacó",
+            "Esaú",
+            "José",
+            "Benjamim",
+            "Judá"
+        ],
+        "correta": "Jacó",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do irmão gêmeo de Jacó?",
+        "alternativas": [
+            "Esaú",
+            "Isaque",
+            "José",
+            "Benjamim",
+            "Judá"
+        ],
+        "correta": "Esaú",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do filho favorito de Jacó?",
+        "alternativas": [
+            "José",
+            "Benjamim",
+            "Judá",
+            "Rúben",
+            "Levi"
+        ],
+        "correta": "José",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do filho mais novo de Jacó?",
+        "alternativas": [
+            "Benjamim",
+            "José",
+            "Judá",
+            "Rúben",
+            "Levi"
+        ],
+        "correta": "Benjamim",
+        "pontos": 15,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome da esposa de Isaque?",
+        "alternativas": [
+            "Rebeca",
+            "Sara",
+            "Raquel",
+            "Leia",
+            "Débora"
+        ],
+        "correta": "Rebeca",
+        "pontos": 15,
+        "repetida": 0
+    }
+]

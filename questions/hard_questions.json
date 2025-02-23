@@ -1,0 +1,236 @@
+[
+    {
+        "enunciado": "Onde nasceu Abrão?",
+        "alternativas": [
+            "Ur dos Caldeus",
+            "Canaã",
+            "Sodoma e Gomorra",
+            "Jericó",
+            "Cades Barneia"
+        ],
+        "correta": "Ur dos Caldeus",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Quantos filhos teve Adão e Eva?",
+        "alternativas": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correta": "3",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do terceiro filho de Adão e Eva?",
+        "alternativas": [
+            "Sete",
+            "Caim",
+            "Abel",
+            "Noé",
+            "Enoque"
+        ],
+        "correta": "Sete",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do lugar onde Abraão foi chamado por Deus?",
+        "alternativas": [
+            "Canaã",
+            "Ur dos Caldeus",
+            "Egito",
+            "Sodoma",
+            "Gomorra"
+        ],
+        "correta": "Canaã",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome da cidade que foi destruída junto com Sodoma?",
+        "alternativas": [
+            "Gomorra",
+            "Jericó",
+            "Babilônia",
+            "Nínive",
+            "Canaã"
+        ],
+        "correta": "Gomorra",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do anjo que visitou Abraão?",
+        "alternativas": [
+            "Anjo do Senhor",
+            "Gabriel",
+            "Miguel",
+            "Rafael",
+            "Uriel"
+        ],
+        "correta": "Anjo do Senhor",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome da mulher que se transformou em estátua de sal?",
+        "alternativas": [
+            "Mulher de Ló",
+            "Sara",
+            "Rebeca",
+            "Raquel",
+            "Leia"
+        ],
+        "correta": "Mulher de Ló",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do lugar onde Jacó teve o sonho da escada?",
+        "alternativas": [
+            "Betel",
+            "Peniel",
+            "Siquém",
+            "Hebrom",
+            "Canaã"
+        ],
+        "correta": "Betel",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do lugar onde Jacó lutou com o anjo?",
+        "alternativas": [
+            "Peniel",
+            "Betel",
+            "Siquém",
+            "Hebrom",
+            "Canaã"
+        ],
+        "correta": "Peniel",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do lugar onde Abraão foi sacrificar Isaque?",
+        "alternativas": [
+            "Monte Moriá",
+            "Monte Sinai",
+            "Monte Horebe",
+            "Monte Nebo",
+            "Monte Carmelo"
+        ],
+        "correta": "Monte Moriá",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do rio que banhava o Jardim do Éden?",
+        "alternativas": [
+            "Eufrates",
+            "Nilo",
+            "Jordão",
+            "Tigre",
+            "Amazonas"
+        ],
+        "correta": "Eufrates",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do irmão de Jacó que o enganou?",
+        "alternativas": [
+            "Esaú",
+            "Isaque",
+            "José",
+            "Benjamim",
+            "Judá"
+        ],
+        "correta": "Esaú",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do filho de Jacó que foi vendido como escravo?",
+        "alternativas": [
+            "José",
+            "Benjamim",
+            "Judá",
+            "Rúben",
+            "Levi"
+        ],
+        "correta": "José",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do faraó que elevou José ao poder no Egito?",
+        "alternativas": [
+            "Faraó do Egito",
+            "Faraó do Êxodo",
+            "Faraó do Dilúvio",
+            "Faraó de Canaã",
+            "Faraó de Sodoma"
+        ],
+        "correta": "Faraó do Egito",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do lugar onde José foi vendido como escravo?",
+        "alternativas": [
+            "Egito",
+            "Canaã",
+            "Sodoma",
+            "Gomorra",
+            "Babilônia"
+        ],
+        "correta": "Egito",
+        "pontos": 25,
+        "repetida": 1
+    },
+    {
+        "enunciado": "Qual foi o nome do irmão de José que sugeriu vendê-lo?",
+        "alternativas": [
+            "Judá",
+            "Rúben",
+            "Levi",
+            "Benjamim",
+            "Simeão"
+        ],
+        "correta": "Judá",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do filho de Judá?",
+        "alternativas": [
+            "Perez",
+            "Zerá",
+            "Judá",
+            "Rúben",
+            "Levi"
+        ],
+        "correta": "Perez",
+        "pontos": 25,
+        "repetida": 0
+    },
+    {
+        "enunciado": "Qual foi o nome do filho de José?",
+        "alternativas": [
+            "Manassés",
+            "Efraim",
+            "Benjamim",
+            "Judá",
+            "Levi"
+        ],
+        "correta": "Manassés",
+        "pontos": 25,
+        "repetida": 0
+    }
+]

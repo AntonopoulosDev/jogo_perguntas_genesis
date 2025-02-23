@@ -1,0 +1,148 @@
+[
+  {
+    "enunciado": "Qual era o nome dos três filhos de Noé?",
+    "alternativas": [
+      "Sem, Cam e Jafé",
+      "Sem, Caim e Abel",
+      "Sem, Cam e Abel",
+      "Sem, Caim e Jafé",
+      "Caim, Cam e Jafé"
+    ],
+    "correta": "Sem, Cam e Jafé",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos tinha Noé quando começou o dilúvio?",
+    "alternativas": ["500", "600", "700", "800", "900"],
+    "correta": "600",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos dias Noé ficou na arca antes do dilúvio começar?",
+    "alternativas": ["7", "10", "14", "20", "30"],
+    "correta": "7",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos casais de cada animal limpo Noé levou para a arca?",
+    "alternativas": ["7", "10", "14", "20", "30"],
+    "correta": "7",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos casais de cada animal imundo Noé levou para a arca?",
+    "alternativas": ["1", "2", "3", "4", "5"],
+    "correta": "2",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos dias Noé ficou na arca após o dilúvio?",
+    "alternativas": ["40", "50", "60", "70", "80"],
+    "correta": "40",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu Sem, filho de Noé?",
+    "alternativas": ["500", "600", "700", "800", "900"],
+    "correta": "600",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu Cam, filho de Noé?",
+    "alternativas": ["500", "600", "700", "800", "900"],
+    "correta": "600",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu Jafé, filho de Noé?",
+    "alternativas": ["500", "600", "700", "800", "900"],
+    "correta": "600",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu Abraão antes de ter Ismael?",
+    "alternativas": ["80", "90", "100", "110", "120"],
+    "correta": "86",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu Isaque antes de ter Esaú e Jacó?",
+    "alternativas": ["60", "70", "80", "90", "100"],
+    "correta": "60",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu Jacó antes de ir para o Egito?",
+    "alternativas": ["120", "130", "140", "147", "150"],
+    "correta": "130",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu José no Egito?",
+    "alternativas": ["80", "90", "100", "110", "120"],
+    "correta": "110",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu Ló?",
+    "alternativas": ["100", "120", "130", "140", "150"],
+    "correta": "140",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu Enoque antes de ser arrebatado?",
+    "alternativas": ["300", "365", "400", "500", "600"],
+    "correta": "365",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu Sete?",
+    "alternativas": ["800", "900", "912", "950", "1000"],
+    "correta": "912",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu Noé antes do dilúvio?",
+    "alternativas": ["500", "600", "700", "800", "900"],
+    "correta": "600",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu Abraão antes de ter Isaque?",
+    "alternativas": ["80", "90", "100", "110", "120"],
+    "correta": "100",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu Isaque antes de ter Jacó?",
+    "alternativas": ["60", "70", "80", "90", "100"],
+    "correta": "60",
+    "pontos": 60,
+    "repetida": 0
+  },
+  {
+    "enunciado": "Quantos anos viveu Jacó antes de ir para o Egito?",
+    "alternativas": ["120", "130", "140", "147", "150"],
+    "correta": "130",
+    "pontos": 60,
+    "repetida": 0
+  }
+]
