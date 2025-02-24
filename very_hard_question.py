@@ -62,6 +62,25 @@ def show_very_hard_question(root, jogador_escolhido=None, dificuldade=None, difi
     style = ttk.Style()
     style.configure("Custom.TButton", font=("Arial", 16))
 
+    remaining_time = 20
+    label_timer = ttk.Label(frm, text=f"Tempo restante: {remaining_time} segundos", font=("Arial", 16))
+    label_timer.pack(pady=10)
+
+    def update_timer():
+        nonlocal remaining_time
+        if remaining_time > 0:
+            remaining_time -= 1
+            label_timer.config(text=f"Tempo restante: {remaining_time} segundos")
+            question.after(1000, update_timer)
+        else:
+            messagebox.showinfo("Tempo Esgotado", "O tempo acabou!")
+            jogador_escolhido['ativo'] = False
+            salvar_jogadores(jogadores)
+            question.destroy()
+            dificult.destroy()
+
+    question.after(1000, update_timer)
+
     if jogador_escolhido:
         ttk.Label(frm, text=f"Jogador: {jogador_escolhido['nome']}", font=("Arial", 16)).pack(pady=10)
 
